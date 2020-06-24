@@ -6,9 +6,11 @@ Creating a NodeJS back-end to register transactions income and outcome
 
 ## Preview
 
-<p align="center">
-  <img src="https://ik.imagekit.io/rlpwchithd/Hnet-image__1__44H5rKrKD.gif">
-</p>
+<div align="center">
+  <a href="https://youtu.be/CXwAzVWLR7c">
+    <img src="https://ik.imagekit.io/rlpwchithd/Captura_de_Tela_2020-06-23_a_s_21.42.56_2C7D7cNu2.png">
+  </a>
+</div>
 
 ## Routes
 
