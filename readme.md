@@ -1,4 +1,4 @@
-# GoSatck - Challenge: Node.js Fundamentals
+# GoStack - Challenge: Node.js Fundamentals
 
 ## About
 
